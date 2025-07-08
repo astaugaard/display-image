@@ -1,0 +1,11 @@
+
+window {
+    background-color: #00000000;
+}
+
+box {
+    background-color: #000;
+    border-radius: 20px;
+    padding: 20px;
+    border: 2px solid #ff0000;
+}
